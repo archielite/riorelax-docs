@@ -28,7 +28,6 @@ export default [
       { text: 'Custom CSS/JS', link: '/riorelax/usage-custom-css-js' },
       { text: 'Translation', link: '/riorelax/usage-translation' },
       { text: 'Multi-language', link: '/riorelax/usage-multi-language' },
-      { text: 'Location', link: '/riorelax/usage-location' },
       { text: 'Analytics', link: '/riorelax/usage-analytics' },
       { text: 'Media - Setup Amazon S3', link: '/riorelax/usage-media-s3' },
       { text: 'Media - Setup BunnyCDN', link: '/riorelax/usage-media-bunnycdn' },
