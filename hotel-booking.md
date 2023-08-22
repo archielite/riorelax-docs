@@ -22,7 +22,7 @@ When you are logged into the admin account, the admin configuration bar will app
 
 ![](images/hotel-booking-room-front-2.png)
 
-These hotel rules and cancellation policies can also be configured in the Theme Options within the admin settings.
+These Hotel Rules, Cancellation Policies and Contact Information (Yellow Arrow) can also be configured in the Theme Options within the admin settings.
 
 ![](images/hotel-booking-room-back-1.png)
 
@@ -40,7 +40,7 @@ Don't forget to set the category for the room, adjust the status (only published
 
 ## Categories
 
-**This session help you to create new category tag for your rooms.**
+This session help you to create new category tag for your rooms.
 
 ![](images/hotel-booking-categories-back.png)
 ![](images/hotel-booking-category-back.png)
@@ -49,13 +49,13 @@ Rooms with the same category will appear in the 'Related Rooms' section. The hig
 
 ## Amenities
 
-**This session help you to create new amenity tag for your rooms.**
+This session help you to create new amenity tag for your rooms.
 
 ![](images/hotel-booking-amenities-back.png)
 
 ## Services
 
-**This session help you to create new service for your Business.**
+This session help you to create new service for your Business.
 
 ![](images/hotel-booking-services-back.png)
 ![](images/hotel-booking-service-back.png)
@@ -67,13 +67,13 @@ These services will be used in the Services listing and the Service detail page.
 
 ## Customers, Taxes, Setting
 
-**This section helps you manage your customers' accounts, configure taxes (VAT, etc.) based on your country, and set up the currency.**
+This section helps you manage your customers' accounts, configure taxes (VAT, etc.) based on your country, and set up the currency.
 
 ![](images/hotel-booking-settings-back.png)
 
 ## Bookings Management:
 
-**We provide powerful tools to assist you in managing all bookings with ease.**
+We provide powerful tools to assist you in managing all bookings with ease.
 
 ![](images/hotel-booking-bookings-back.png)
 ![](images/hotel-booking-booking-detail.png)
