@@ -8,9 +8,7 @@ Welcome to the heart of your Hotel & Resort's digital experience—the **Hotel B
 In admin dashboard, you also can have an overall look this Hotel Booking features with (Rooms, Categories, Amenities, Services, Customers, Taxes and Settings)
 ![](images/hotel-booking-admin.png)
 
-## Let discover this feature:
-
-### Rooms
+## Rooms
 ![](images/hotel-booking-rooms-listing-front.png)
 
 The available rooms will appear depending on your customer's check-in date.
@@ -36,18 +34,18 @@ Let check the Room Availability section, You can manage the price, status, and n
 
 Don't forget to set the category for the room, adjust the status (only published items will be visible to your customers), and save the changes.
 
-### Categories
+## Categories
 **This session help you to create new category tag for your rooms.**
 ![](images/hotel-booking-categories-back.png)
 ![](images/hotel-booking-category-back.png)
 
 Rooms with the same category will appear in the 'Related Rooms' section. The higher the order index, the higher the priority for display.
 
-### Amenities
+## Amenities
 **This session help you to create new amenity tag for your rooms.**
 ![](images/hotel-booking-amenities-back.png)
 
-### Services
+## Services
 **This session help you to create new service for your Business.**
 ![](images/hotel-booking-services-back.png)
 ![](images/hotel-booking-service-back.png)
@@ -56,17 +54,14 @@ These services will be used in the Services listing and the Service detail page.
 ![](images/hotel-booking-services-front.png)
 ![](images/hotel-booking-service-front.png)
 
-### Customers, Taxes, Setting
+## Customers, Taxes, Setting
 **This section helps you manage your customers' accounts, configure taxes (VAT, etc.) based on your country, and set up the currency.**
 ![](images/hotel-booking-settings-back.png)
 
-### Bookings Management:
+## Bookings Management:
 **We provide powerful tools to assist you in managing all bookings with ease.**
 ![](images/hotel-booking-bookings-back.png)
 ![](images/hotel-booking-booking-detail.png)
 
 Furthermore, you can also have a comprehensive view of all bookings based on the calendar through the Booking Report.
 ![](images/hotel-booking-bookings-report.png)
-
-
-
