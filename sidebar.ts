@@ -35,6 +35,7 @@ export default [
       { text: 'Media - Setup Wasabi', link: '/riorelax/usage-media-wasabi' },
       { text: 'Setup email', link: '/riorelax/usage-email' },
       { text: 'Backup', link: '/riorelax/plugin-backup' },
+      { text: 'Hotel booking', link: '/riorelax/hotel-booking' },
     ],
   },
 ] satisfies DefaultTheme.SidebarItem[]
