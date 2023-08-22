@@ -26,13 +26,13 @@ Password: `12345678`
 ## Features
 
 - Fully Hospitality Features: Manage your rooms, categories, published, rates, reservations, booking management, guest services:
-    - Built-in Book Tracking page.
-    - Elegant Image Gallery with Lightbox for Room Visuals.
-    - Quick Preview of Room Details.
-    - Advanced Typography for a Distinctive Look.
-    - Streamlined Single Booking Page.
-    - Seamlessly Facilitate Guest Checkouts.
-    - Support for Diverse Payment Gateways: PayPal, Stripe, Paystack, Razorpay, Mollie, and SSLCommerz.
+- Built-in Book Tracking page.
+- Elegant Image Gallery with Lightbox for Room Visuals.
+- Quick Preview of Room Details.
+- Advanced Typography for a Distinctive Look.
+- Streamlined Single Booking Page.
+- Seamlessly Facilitate Guest Checkouts.
+- Support for Diverse Payment Gateways: PayPal, Stripe, Paystack, Razorpay, Mollie, and SSLCommerz.
 - Multilingual Experience with Unlimited Languages.
 - Infinite Currency Options for Global Transactions.
 - Complete Right-to-Left (RTL) Language Support.

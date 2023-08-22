@@ -24,6 +24,7 @@ export default [
       { text: 'Setup menus',  link: '/riorelax/usage-menus' },
       { text: 'Setup theme options',  link: '/riorelax/usage-theme-options' },
       { text: 'Widgets', link: '/riorelax/usage-widgets' },
+      { text: 'Hotel booking', link: '/riorelax/hotel-booking' },
       { text: 'Custom CSS/JS', link: '/riorelax/usage-custom-css-js' },
       { text: 'Translation', link: '/riorelax/usage-translation' },
       { text: 'Multi-language', link: '/riorelax/usage-multi-language' },
@@ -35,7 +36,6 @@ export default [
       { text: 'Media - Setup Wasabi', link: '/riorelax/usage-media-wasabi' },
       { text: 'Setup email', link: '/riorelax/usage-email' },
       { text: 'Backup', link: '/riorelax/plugin-backup' },
-      { text: 'Hotel booking', link: '/riorelax/hotel-booking' },
     ],
   },
 ] satisfies DefaultTheme.SidebarItem[]
