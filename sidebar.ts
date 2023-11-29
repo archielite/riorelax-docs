@@ -33,7 +33,6 @@ export default [
       { text: 'Media - Setup BunnyCDN', link: '/riorelax/usage-media-bunnycdn' },
       { text: 'Media - Setup Wasabi', link: '/riorelax/usage-media-wasabi' },
       { text: 'Setup email', link: '/riorelax/usage-email' },
-      { text: 'Backup', link: '/riorelax/plugin-backup' },
     ],
   },
 ] satisfies DefaultTheme.SidebarItem[]
